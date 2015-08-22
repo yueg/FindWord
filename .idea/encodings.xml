@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Utility.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Utility.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/business.seg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/business.tag" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/input.seg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/input01.seg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/input02.seg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ret.seg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/searchTerm.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/searchTerm.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/simpleDic.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/simpleDic.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/webEntityMine.cpp" charset="GBK" />
+  </component>
+</project>
