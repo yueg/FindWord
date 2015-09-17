@@ -8,6 +8,9 @@
 #include <string>
 #include <vector>
 using namespace std;
-map<string, int> getWordMapFromVec(vector<string> vec);
+map<string, int> getTermsMapFromVec(vector<string> vec);
+vector<string> getTermsFromFile(const char *termsTableFileName, const char *inputFileName);
+vector<string> getTermsFromStr(const char *termsTableFileName, string str);
+map<string, int> getMultiTermsMap(vector<vector<string>> ts);
 
 #endif //FINDWORD_COUNTWORD_H

@@ -23,7 +23,7 @@ typedef unsigned short gchar_t;
 int dbc2sbc(const char *p, char *q, int *map, int qlen);
 int dbc2sbc1(const char *p, char *q, int *map, int& b, const int end);
 
-
+//全角转半角
 int sbc2dbc(const char *p, char *q, int qLen);
 
 //中文空格
